@@ -16,7 +16,7 @@ const CaseStudies = () => {
     lineHeight: "45px",
     margin: "0px",
     color: "white",
-    zIndex: 3, // Ensure this remains a number
+    zIndex: 3,
   };
   const smallHeading = {
     fontSize: "24px",

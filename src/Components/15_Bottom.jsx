@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import logo from "../assets/Images/logo.png";
 import { TfiArrowTopRight } from "react-icons/tfi";
